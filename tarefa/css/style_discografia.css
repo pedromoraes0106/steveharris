@@ -1,0 +1,70 @@
+body
+{
+    background-image: url("../img/steve_fundo_disc.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+table
+{
+    margin-top: 10px;
+    text-align: center;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 1px 1px 1px 5px green;
+}
+
+#table_discografia
+{
+    margin: auto;
+    width: 60%;
+}
+
+#titulo_tab
+{
+    font-size: 29px;
+    text-align: center;
+}
+
+thead tr td
+{
+    border-bottom: 1px solid white;
+}
+
+tbody
+{
+    font-size: 20px;
+}
+
+.td_border
+{
+    width: 50%;
+    border-bottom: 3px solid white;
+}
+
+.td_border_b
+{
+    border-bottom: 3px solid white;
+}
+
+#topicos
+{
+    font-size: 24px;
+}
+
+.capas
+{
+    border-bottom: 3px solid white;
+}
+
+.capas img
+{    
+    border-radius: 10px;
+    width: 200px;
+}
+
+#footer
+{
+    color: white;
+}

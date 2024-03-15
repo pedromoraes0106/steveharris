@@ -1,0 +1,17 @@
+#texto_bio
+{
+    width: 70%;
+    font-size: 18px;
+    margin: auto;
+}
+
+#steve_bio
+{
+    text-align: center;
+    margin-top: 20px;
+}
+
+#link_wik
+{
+    color: green;
+}
